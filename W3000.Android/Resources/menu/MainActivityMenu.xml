@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/mainMenuReview"
+		  android:title="开始回顾" />
+	<item android:id="@+id/mainMenuSave"
+		  android:title="导出" />
+</menu>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3000.SharedLibrary", "W3000.SharedLibrary\W3000.SharedLibrary.csproj", "{52C6D057-92F9-4F4F-927D-02B9A1B0F330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3000.Android", "W3000.Android\W3000.Android.csproj", "{29C7B636-EAC3-40B2-860C-B11B8E6CBB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3000.Wpf", "W3000.Wpf\W3000.Wpf.csproj", "{49F78381-F5B7-447F-8713-4668306EE23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C6D057-92F9-4F4F-927D-02B9A1B0F330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C6D057-92F9-4F4F-927D-02B9A1B0F330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C6D057-92F9-4F4F-927D-02B9A1B0F330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C6D057-92F9-4F4F-927D-02B9A1B0F330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C7B636-EAC3-40B2-860C-B11B8E6CBB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C7B636-EAC3-40B2-860C-B11B8E6CBB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C7B636-EAC3-40B2-860C-B11B8E6CBB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C7B636-EAC3-40B2-860C-B11B8E6CBB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F78381-F5B7-447F-8713-4668306EE23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F78381-F5B7-447F-8713-4668306EE23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F78381-F5B7-447F-8713-4668306EE23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F78381-F5B7-447F-8713-4668306EE23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
